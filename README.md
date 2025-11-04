@@ -12,4 +12,19 @@
   - Taking input from users (`input()`)  
 - Mini project:  
   - Wrote a Fahrenheit to Celsius converter using user input.  
-- Python file: `Day1_PythonBasics.py`  
+- Python file: `Day1_PythonBasics.py`
+  
+### Day 2: Control Flow – if-else, loops, conditions
+
+- Learned how to control program execution using conditional statements and loops.  
+- Topics covered:  
+  - if, elif, else statements  
+  - Comparison and logical operators  
+  - for and while loops  
+  - Loop control: break, continue, pass  
+- Mini exercises:  
+  - Checked if a number is even/odd  
+  - Found the largest of three numbers  
+  - Printed a multiplication table  
+  - Calculated the sum of first N numbers  
+- Python file: `Day2_ControlFlow.py`
