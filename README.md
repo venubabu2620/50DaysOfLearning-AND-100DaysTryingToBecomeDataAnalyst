@@ -12,7 +12,8 @@
   - Taking input from users (`input()`)  
 - Mini project:  
   - Wrote a Fahrenheit to Celsius converter using user input.  
-- Python file: `Day1_PythonBasics.py`
+- Python file: `Day1_PythonBasics.ipynb`
+
   
 ### Day 2: Control Flow – if-else, loops, conditions
 
@@ -27,4 +28,22 @@
   - Found the largest of three numbers  
   - Printed a multiplication table  
   - Calculated the sum of first N numbers  
-- Python file: `Day2_ControlFlow.py`
+- Python file: `Day2_ControlFlow.ipynb`
+
+  
+## 🗓️ Day 3–4: Python Lists, Tuples, Sets & Functions
+  - I explored some of Python’s most important building blocks — **Functions, Lists, Tuples, and Sets**.  
+    These concepts are crucial for data manipulation and structuring data efficiently before analysis.
+ - Topics Covered
+#### Functions
+  - `def` keyword to define functions  
+  - `return` statement to send back results  
+  - Arguments & parameters  
+  - Local and global scope  
+#### Lists, Tuples, and Sets
+  - Creating and accessing data structures  
+  - Indexing, slicing, and list comprehensions  
+  - Key list methods (`append`, `insert`, `remove`, `sort`, `reverse`, etc.)  
+  - Tuples (immutable collections)  
+  - Sets (unique, unordered collections)
+- Python file: `Day3&4_practice.ipynb`
