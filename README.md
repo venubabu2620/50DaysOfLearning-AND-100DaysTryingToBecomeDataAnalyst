@@ -47,3 +47,17 @@
   - Tuples (immutable collections)  
   - Sets (unique, unordered collections)
 - Python file: `Day3&4_practice.ipynb`
+
+
+## 🗓️ Day 5 — Python Dictionaries & Key–Value Data
+🚀 Today, I explored **Dictionaries in Python**, one of the most powerful and flexible data structures for storing and managing structured data.  
+Dictionaries are used everywhere — from API responses to JSON files, database records, and data analysis workflows.
+-Topics Covered
+- Understanding **key–value pairs**
+- Creating and modifying dictionaries
+- Accessing, updating, and deleting elements
+- Looping through `.keys()`, `.values()`, and `.items()`
+- Nested dictionaries
+- Dictionary methods: `get()`, `update()`, `copy()`, `clear()`, `pop()`, `popitem()`
+- Counting unique values using `set()`
+-Python file: `Day5_PythonDictionaries.ipynb`
