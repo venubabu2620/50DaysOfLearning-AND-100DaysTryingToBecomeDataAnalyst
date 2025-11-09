@@ -61,3 +61,16 @@ Dictionaries are used everywhere — from API responses to JSON files, database 
 - Dictionary methods: `get()`, `update()`, `copy()`, `clear()`, `pop()`, `popitem()`
 - Counting unique values using `set()`
 -Python file: `Day5_PythonDictionaries.ipynb`
+
+
+## 🗓️ Day 6 — File Handling & Data Storage Formats in Python
+🚀 Today, I explored File Handling and Data Storage Formats in Python, which are essential for reading, writing, and managing data in real-world applications.
+File handling is crucial for working with datasets, logging, and exchanging data between programs.
+-Topics Covered
+- Opening, reading, writing, and appending text files (.txt)
+- Best practices using with statement
+- Reading and writing CSV files using the csv module
+- Reading and writing JSON files using the json module
+- Practical exercises on storing and retrieving data
+-Mini project: Student Data Manager — storing student info in .txt, .csv, and .json formats and displaying it neatly
+-Python file: `Day_6_File_Handling.ipynb`
