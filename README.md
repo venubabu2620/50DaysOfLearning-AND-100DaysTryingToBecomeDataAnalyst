@@ -86,3 +86,14 @@ File handling is crucial for working with datasets, logging, and exchanging data
 - Aggregate functions (sum, mean, max, min, std)  
 - Reshaping arrays using `reshape()` and `flatten()`
 - Python file: `Day7_Numpy.ipynb`
+
+
+## 🗓️ Day 8 – Pandas Basics 
+-Topics Covered
+- What is Pandas
+- Creating Series and DataFrames
+- Reading data from CSV files
+- Accessing columns and rows (.loc, .iloc)
+- Basic operations: head(), tail(), info(), describe()
+- Selecting data using conditions
+- Python file: `Day8_Pandas.ipynb`
