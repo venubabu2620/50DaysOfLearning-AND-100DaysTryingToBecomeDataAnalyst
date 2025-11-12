@@ -74,3 +74,15 @@ File handling is crucial for working with datasets, logging, and exchanging data
 - Practical exercises on storing and retrieving data
 -Mini project: Student Data Manager — storing student info in .txt, .csv, and .json formats and displaying it neatly
 -Python file: `Day_6_File_Handling.ipynb`
+
+
+## 🗓️ Day 7 – NumPy Fundamentals 
+-Topics Covered
+- What is NumPy & Why Use It  
+- Creating arrays using `np.array()`, `np.arange()`, `np.zeros()`, `np.ones()`, `np.random()`  
+- Array attributes: `shape`, `ndim`, `dtype`, `size`  
+- Indexing and slicing  
+- Array operations (addition, subtraction, multiplication, division)  
+- Aggregate functions (sum, mean, max, min, std)  
+- Reshaping arrays using `reshape()` and `flatten()`
+- Python file: `Day7_Numpy.ipynb`
