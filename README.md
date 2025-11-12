@@ -97,3 +97,18 @@ File handling is crucial for working with datasets, logging, and exchanging data
 - Basic operations: head(), tail(), info(), describe()
 - Selecting data using conditions
 - Python file: `Day8_Pandas.ipynb`
+
+
+## 🗓️ Day 9 – Data Cleaning & EDA
+-Topics Covered
+- Handling missing values using mean and median (`fillna()`)
+- Removing duplicates (`drop_duplicates()`)
+- Renaming and dropping columns
+- Sorting data using `sort_values()`
+- Applying custom functions with `apply()` and `lambda`
+- Merging and joining DataFrames (`merge()`, `join()`, `concat()`)
+- Grouping and summarizing data with `groupby()`
+- Exporting data to CSV
+- Python file: `Day9_DataCleaning&EDA.ipynb`
+
+  
