@@ -112,3 +112,16 @@ File handling is crucial for working with datasets, logging, and exchanging data
 - Python file: `Day9_DataCleaning&EDA.ipynb`
 
   
+## 🗓️ Day 10 – Final Python Project: Retail Sales Analytics
+-Topics Covered
+- End-to-end Python workflow for data analysis
+- Creating synthetic datasets using Python, lists, NumPy
+- Cleaning data (missing values, duplicates, incorrect entries)
+- Adding calculated fields (Revenue, Category)
+- Applying custom logic using apply() and lambda
+- Grouping & summarizing data using groupby()
+- Merging customer and sales datasets (merge())
+- Visualizing insights using Matplotlib (bar chart, pie chart)
+- Exporting cleaned dataset to CSV
+- Python file: `Day10_Full python project.ipynb`
+
